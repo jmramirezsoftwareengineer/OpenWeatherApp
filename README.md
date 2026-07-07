@@ -32,3 +32,7 @@ Kotlin + Jetpack Compose + **MVP** app that uses **OpenWeather** for current wea
 - Firebase Auth - provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app.
 - Google Play Services Location -  provide location-based functionalities to Android devices and applications.
 
+<img width="200" height="400" alt="History" src="https://github.com/user-attachments/assets/98832433-e84d-4475-bc94-c30c674e3329" />
+<img width="200" height="400" alt="Register" src="https://github.com/user-attachments/assets/cc74d5f2-9aec-45e2-88a3-26aa74ab2834" />
+<img width="200" height="400" alt="Login" src="https://github.com/user-attachments/assets/a812171c-bb59-4bce-9e3c-15c807e2e20d" />
+<img width="200" height="400" alt="Home" src="https://github.com/user-attachments/assets/02b39e3a-cd19-4776-92d1-ddfc2a06549e" />
