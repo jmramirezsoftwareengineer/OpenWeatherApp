@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635669850291",
+    "project_id": "com-mjramirez-weatherapp",
+    "storage_bucket": "com-mjramirez-weatherapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635669850291:android:eaecb0a12107381ba868c6",
+        "android_client_info": {
+          "package_name": "com.mjramirez.openweatherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR33BQiJpTLWVFWZ6QoUkRuA0KaUX_uQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
